@@ -1,0 +1,1 @@
+{"schema":{"first_name":{"nullable":false},"last_name":{"nullable":true},"country":{"nullable":true,"default":"Switzerland"}},"data":[]}
